@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RayhanAymanMangku
 - 👀 I’m interested in Website Programming
 - 💻 I’m currently learning Web Developer
-- 👋🏼 If you want to know more about me, follow my instagram @rayhanayman
+- 👋🏼 follow my instagram @rayhanayman
