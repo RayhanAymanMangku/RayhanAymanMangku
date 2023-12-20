@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @RayhanAymanMangku
-- 👀 I’m interested in Website Programming
-- 💻 I’m currently learning Web Developer
-- 👋🏼 follow my instagram @rayhanayman
+- 👀 I’m interested in Front End Web Development
+- My Instagaram @rayhanayman
