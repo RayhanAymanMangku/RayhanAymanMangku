@@ -1,5 +1,4 @@
-<p align="left">👋 Hi, I’m @RayhanAymanMangku
-###
+<p align="left">👋 Hi, I’m @rayhanayman
 
 <h2 align="left">I code with</h2>
 
